@@ -1,10 +1,10 @@
 # Filimonov Artem
-### Junior .NET Developer
+## Junior .NET Developer
 
 ### Contact information
 *Phone:* +375(29)1661501<br>
 *E-mail:* artem22filimonov@gmail.com<br>
-[LinkedIn](https://www.linkedin.com/in/artem-filimonov-699290197)
+[LinkedIn](https://www.linkedin.com/in/artem-filimonov-699290197)<br>
 [rabota.by](https://rabota.by/resume/167753e7ff08308e6d0039ed1f304c374e6674)
 
 ### Skills and Proficiency
