@@ -1,1 +1,1 @@
-https://Din-Bon.github.io/rsschool-cv/cv
+https://Din-Bon.github.io/rsschool-cv
