@@ -1,2 +1,1 @@
-# rsschool-cv
-First assignment at rsschool.
+https://Din-Bon.github.io/rsschool-cv
